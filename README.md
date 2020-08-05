@@ -1,5 +1,7 @@
 ### Welcome there, I'm Daniel -- aka SL7
 
+---
+
 ## I'm a student, engineer, geek
 
 - 🔧  Currently working on the TymerWatch
