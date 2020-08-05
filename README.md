@@ -21,7 +21,7 @@
 
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
-[<img align="left" alt="C Programming" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][cprogramming]
+[<img align="left" alt="C Programming" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][cprogramming]
 [<img align="left" alt="C++ Programming" width="30px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>][c++]
 [<img align="left" alt="Home Assistant" width="30px" src="https://community-assets.home-assistant.io/original/3X/6/3/63f75921214e158bc02336dc864c096b11889f14.png"/>][hass]
 [<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
