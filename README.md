@@ -58,7 +58,6 @@
 - Basic Python OpenCV
 - Arduino Library development
 - Smart Home programming (Home Assistant)
-- 
 <br/>
 
 <br/>
