@@ -2,10 +2,10 @@
 
 ## I'm a student, engineer, geek
 
-    - 🔧  Currently working on the TymerWatch
-    - 🌱  Learning CS, Electrical engineering, Robotics
-    - 🌌  Also doing Astrophotography
-    - 🔎 Looking forward to work together with others  
+- 🔧  Currently working on the TymerWatch
+- 🌱  Learning CS, Electrical engineering, Robotics
+- 🌌  Also doing Astrophotography
+- 🔎 Looking forward to work together with others  
 
 ## Where you can find me
   
