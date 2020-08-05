@@ -34,22 +34,22 @@
 
 ## Skill Level:
 [<img align="left" alt="C Programming" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][cprogramming]
-[######----------------------------------] -- 15 %  
+ -- [######----------------------------------] -- 15 %  
 <br/>
 [<img align="left" alt="C++ Programming" width="30px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>][c++]
-[############----------------------------] -- 30%  
+ -- [############----------------------------] -- 30%  
 <br/>
 [<img align="left" alt="Home Assistant" width="30px" src="https://community-assets.home-assistant.io/original/3X/6/3/63f75921214e158bc02336dc864c096b11889f14.png"/>][hass]
-[##################################------] -- 85%  
+ -- [##################################------] -- 85%  
 <br/>
 [<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
-[################------------------------] -- 40%  
+ -- [################------------------------] -- 40%  
 <br/>
 [<img align="left" alt="Arduino" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"/>][arduino]
-[################################--------] -- 80%  
+ -- [################################--------] -- 80%  
 <br/>
 [<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>][python]
-[################------------------------] -- 40%  
+ -- [################------------------------] -- 40%  
 <br/>
 
 <br/>
