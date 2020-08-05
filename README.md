@@ -28,11 +28,11 @@
 [<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>][python]
 [<img align="left" alt="Arduino" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"/>][arduino]
 [<img align="left" alt="PlatformIO" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1977859481551942283-512.png"/>][pio]
-[<img align="left" alt="PlatformIO" width="30px" src="https://i2.wp.com/benchodroff.com/wp-content/uploads/2017/10/mqtt.png"/>][mqtt]
+[<img align="left" alt="MQTT" width="30px" src="https://i2.wp.com/benchodroff.com/wp-content/uploads/2017/10/mqtt.png"/>][mqtt]
 
 <br/>
 
-## Skill Level:
+## Skills and Skill Level:
 [<img align="left" alt="C Programming" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][cprogramming]
 [######\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  15 % (Learning right now [FreeRTOS, ESP-IDF, libopencm3, ...])  
 <br/>
@@ -50,6 +50,15 @@
 <br/>
 [<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>][python]
 [################\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  40%  
+  
+### Skills:
+- Embedded Systems programming
+- MQTT/IOT development
+- C driver development
+- Basic Python OpenCV
+- Arduino Library development
+- Smart Home programming (Home Assistant)
+- 
 <br/>
 
 <br/>
