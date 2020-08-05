@@ -7,12 +7,14 @@
 - 🌌  Also doing Astrophotography
 - 🔎 Looking forward to work together with others  
 
+---
 ## Where you can find me
   
   [<img align="left" alt="SL7 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
   [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   [<img align="left" alt="SL7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="C Programming" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />]
@@ -23,8 +25,9 @@
 [<img align="left" alt="Arduino" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png" />]
 [<img align="left" alt="PlatformIO" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1977859481551942283-512.png" />]
 
-
-<br>
+---
+<br/>
+<br/>
 
 [website]: https://lunary.tech
 [twitter]: https://twitter.com/notcasualgeek
