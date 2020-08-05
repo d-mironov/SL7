@@ -34,7 +34,7 @@
 
 ## Skill Level:
 [<img align="left" alt="C Programming" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][cprogramming]
-[######----------------------------------]  15 % (Learning right now [FreeRTOS, ESP-IDF,libopencm3,...]) 
+[######----------------------------------]  15 % (Learning right now [FreeRTOS, ESP-IDF,libopencm3,...])  
 <br/>
 [<img align="left" alt="C++ Programming" width="30px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>][c++]
 [############----------------------------]  30%  
