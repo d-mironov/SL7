@@ -7,7 +7,7 @@
 - 🔧  Currently working on the TymerWatch
 - 🌱  Learning CS, Electrical engineering, Robotics
 - 🌌  Also doing Astrophotography
-- 🔎  Looking forward to work together with others  
+- 🔎  Looking forward working together with others  
 - 🛰  Interested in Robotics and Spaceflight
 <br/>
 
