@@ -24,7 +24,7 @@
 [<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>]
 [<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>]
 [<img align="left" alt="Arduino" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"/>]
-[<img align="left" alt="PlatformIO" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1977859481551942283-512.png"/>]
+[<img align="left" alt="PlatformIO" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1977859481551942283-512.png"/>][website]
 
 ---
 <br/>
