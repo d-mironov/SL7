@@ -26,6 +26,7 @@
 [<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>][python]
 [<img align="left" alt="Arduino" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"/>][arduino]
 [<img align="left" alt="PlatformIO" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1977859481551942283-512.png"/>][pio]
+[<img align="left" alt="PlatformIO" width="30px" src="https://i2.wp.com/benchodroff.com/wp-content/uploads/2017/10/mqtt.png"/>][mqtt]
 
 <br/>
 
@@ -41,3 +42,4 @@
 [python]: https://www.python.org
 [arduino]: https://www.arduino.cc
 [pio]: https://platformio.org
+[mqtt]: https://mosquitto.org
