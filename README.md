@@ -8,7 +8,6 @@
 - 🌱  Learning CS, Electrical engineering, Robotics
 - 🌌  Also doing Astrophotography
 - 🔎 Looking forward to work together with others  
-
 <br/>
 
 ## Where you can find me
