@@ -26,8 +26,10 @@
 [<img align="left" alt="Arduino" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"/>][arduino]
 [<img align="left" alt="PlatformIO" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1977859481551942283-512.png"/>][pio]
 
----
 <br/>
+
+---
+
 <br/>
 
 [website]: https://lunary.tech
