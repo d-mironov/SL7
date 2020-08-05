@@ -2,10 +2,10 @@
 
 ## I'm a student, engineer, geek
 
-    - :toolbox:   Currently working on the TymerWatch
-    - :seedling:  Learning CS, Electrical engineering, Robotics
-    - :milky_way: Also doing Astrophotography
-    - :mag_right: Looking forward to work together with others  
+    - 🔧  Currently working on the TymerWatch
+    - 🌱  Learning CS, Electrical engineering, Robotics
+    - 🌌  Also doing Astrophotography
+    - 🔎 Looking forward to work together with others  
 
 ## Where you can find me
   
@@ -19,4 +19,3 @@
 [twitter]: https://twitter.com/notcasualgeek
 [instagram]: https://www.instagram.com/unusualgeek/
 [reddit]: https://www.reddit.com/user/Sl7Bot
-[discord]: < St4cky >#9101
