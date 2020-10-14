@@ -54,7 +54,6 @@
 ### Skills:
 - Embedded Systems programming
 - MQTT/IOT development
-- C driver development
 - Basic Python OpenCV
 - Arduino Library development
 - Smart Home programming (Home Assistant)
