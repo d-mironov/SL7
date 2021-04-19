@@ -32,35 +32,6 @@
 
 <br/>
 
-## Skills and Skill Level:
-[<img align="left" alt="C Programming" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][cprogramming]
-[############\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  30%  (Learning right now [Standard Libs, FreeRTOS, ESP-IDF, ARM-CMSIS, ...])  
-<br/>
-[<img align="left" alt="C++ Programming" width="30px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>][c++]
-[############\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  30%  
-<br/>
-[<img align="left" alt="Home Assistant" width="30px" src="https://community-assets.home-assistant.io/original/3X/6/3/63f75921214e158bc02336dc864c096b11889f14.png"/>][hass]
-[##################################\_\_\_\_\_\_]  85%  
-<br/>
-[<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
-[################\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  40%  
-<br/>
-[<img align="left" alt="Arduino" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"/>][arduino]
-[################################\_\_\_\_\_\_\_\_]  80%  
-<br/>
-[<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>][python]
-[################\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  40%  
-  
-### Skills:
-- Embedded Systems programming
-- MQTT/IOT development
-- Basic Python OpenCV
-- Arduino Library development
-- Smart Home programming (Home Assistant)
-<br/>
-
-<br/>
-
 [website]: https://lunary.tech
 [twitter]: https://twitter.com/notcasualgeek
 [instagram]: https://www.instagram.com/unusualgeek/
