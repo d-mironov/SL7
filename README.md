@@ -1,9 +1,4 @@
-# Welcome there, I'm Daniel -- aka SL7
-
-<br/>
-
-## I'm a student, engineer, geek
-
+## Welcome there, I'm Daniel -- aka SL7
 - 🔧  Currently working on my coding skills
 - 🌱  Learning CS, Electrical engineering, Robotics
 - 🌌  Also doing Astrophotography
